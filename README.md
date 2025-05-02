@@ -8,7 +8,7 @@ Aplicación web que permite buscar el clima de una ciudad en tiempo real. El fro
 Además, la aplicación guarda el historial de búsquedas en localStorage para una experiencia más personalizada.
 
 
-Autor
+
 Nombre del Autor: Jackelin marca
 
 Correo Electrónico: jmarca991@gmail.com
