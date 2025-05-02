@@ -10,7 +10,9 @@ Además, la aplicación guarda el historial de búsquedas en localStorage para u
 
 Autor
 Nombre del Autor: Jackelin marca
+
 Correo Electrónico: jmarca991@gmail.com
+
 GitHub: https://github.com/BCODE14/web-tablero
 
 
