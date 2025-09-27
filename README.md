@@ -4,8 +4,10 @@ url: https://climasmundo.netlify.app/
 
 Descripción:
 
-Aplicación web que permite buscar el clima de una ciudad en tiempo real. El frontend está desarrollado con Vue.js (API Options), mientras que el backend en Node.js se encarga de consumir una API externa de clima y devolver la información al cliente.
-Además, la aplicación guarda el historial de búsquedas en localStorage para una experiencia más personalizada.
+Hice una aplicación web donde puedes buscar el clima de cualquier ciudad en tiempo real.
+El frontend lo desarrollé con Vue.js (API Options) y el backend con Node.js, que se encarga de consultar una API externa de clima y luego devolverme la información.
+
+Además, la app guarda el historial de las búsquedas en localStorage, así que cada vez que entres podrás ver las ciudades que ya consultaste y tener una experiencia más personalizada.
 
 
 
